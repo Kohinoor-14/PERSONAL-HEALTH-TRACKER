@@ -24,8 +24,7 @@ Install these extensions:
 Press `Ctrl + Shift + B` to compile, or run:
 
 ```bash
-g++ -o tracker main.cpp
-./tracker
+
 
 Sample Log (health_log.txt)
 
