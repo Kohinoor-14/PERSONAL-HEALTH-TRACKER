@@ -28,12 +28,11 @@ g++ -o tracker main.cpp
 ./tracker
 
 Sample Log (health_log.txt)
-yaml
-Copy
-Edit
-[2025-06-10] User: Kohinoor, Age: 18, BMI: 22.3 (Normal weight)
-[2025-06-10] Meal logged: 600 kcal
-[2025-06-10] Exercise logged: 4500 steps
+
+[2025-06-10] User: Kohinoor Soni, Age: 18, BMI: 0.002045 (Underweight)
+[2025-06-10] Meal logged: 500 kcal
+[2025-06-10] Exercise logged: 15000 steps
+
 
 Author
 Kohinoor Soni
