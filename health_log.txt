@@ -1,0 +1,3 @@
+[2025-06-10] User: Kohinoor Soni, Age: 18, BMI: 0.001987 (Underweight)
+[2025-06-10] Meal logged: 500 kcal
+[2025-06-10] Exercise logged: 15000 steps
